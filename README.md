@@ -1,9 +1,9 @@
-NAME:  AVIJOT  SINGH
-COMPANY:  CODETECH  IT  SOLUTIONS
-ID: CT4WD2757
-DOMAIN: WEB DEVELOPMENT
-DURATION:  20 June 24 to 20 July 24
-MENTOR: SANTHOSH KUMAR
+**NAME:**  AVIJOT  SINGH
+**COMPANY:**  CODETECH  IT  SOLUTIONS
+**ID:** CT4WD2757
+**DOMAIN:** WEB DEVELOPMENT
+**DURATION:**  20 June 24 to 20 July 24
+**MENTOR:** SANTHOSH KUMAR
 
 
 This project is a simple web-based To-Do List application. Here's an overview of its key features and structure:
